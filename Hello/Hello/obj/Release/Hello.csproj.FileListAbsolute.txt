@@ -1,0 +1,6 @@
+D:\Aula\c#\Hello\Hello\bin\Release\Hello.exe.config
+D:\Aula\c#\Hello\Hello\bin\Release\Hello.exe
+D:\Aula\c#\Hello\Hello\bin\Release\Hello.pdb
+D:\Aula\c#\Hello\Hello\obj\Release\Hello.csprojResolveAssemblyReference.cache
+D:\Aula\c#\Hello\Hello\obj\Release\Hello.exe
+D:\Aula\c#\Hello\Hello\obj\Release\Hello.pdb
